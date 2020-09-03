@@ -1,0 +1,12 @@
+C:\Users\Administration\source\repos\NumberSolitaireCodility\NumberSolitaireCodility\bin\Debug\netcoreapp3.1\NumberSolitaireCodility.exe
+C:\Users\Administration\source\repos\NumberSolitaireCodility\NumberSolitaireCodility\bin\Debug\netcoreapp3.1\NumberSolitaireCodility.deps.json
+C:\Users\Administration\source\repos\NumberSolitaireCodility\NumberSolitaireCodility\bin\Debug\netcoreapp3.1\NumberSolitaireCodility.runtimeconfig.json
+C:\Users\Administration\source\repos\NumberSolitaireCodility\NumberSolitaireCodility\bin\Debug\netcoreapp3.1\NumberSolitaireCodility.runtimeconfig.dev.json
+C:\Users\Administration\source\repos\NumberSolitaireCodility\NumberSolitaireCodility\bin\Debug\netcoreapp3.1\NumberSolitaireCodility.dll
+C:\Users\Administration\source\repos\NumberSolitaireCodility\NumberSolitaireCodility\bin\Debug\netcoreapp3.1\NumberSolitaireCodility.pdb
+C:\Users\Administration\source\repos\NumberSolitaireCodility\NumberSolitaireCodility\obj\Debug\netcoreapp3.1\NumberSolitaireCodility.AssemblyInfoInputs.cache
+C:\Users\Administration\source\repos\NumberSolitaireCodility\NumberSolitaireCodility\obj\Debug\netcoreapp3.1\NumberSolitaireCodility.AssemblyInfo.cs
+C:\Users\Administration\source\repos\NumberSolitaireCodility\NumberSolitaireCodility\obj\Debug\netcoreapp3.1\NumberSolitaireCodility.csproj.CoreCompileInputs.cache
+C:\Users\Administration\source\repos\NumberSolitaireCodility\NumberSolitaireCodility\obj\Debug\netcoreapp3.1\NumberSolitaireCodility.dll
+C:\Users\Administration\source\repos\NumberSolitaireCodility\NumberSolitaireCodility\obj\Debug\netcoreapp3.1\NumberSolitaireCodility.pdb
+C:\Users\Administration\source\repos\NumberSolitaireCodility\NumberSolitaireCodility\obj\Debug\netcoreapp3.1\NumberSolitaireCodility.genruntimeconfig.cache
